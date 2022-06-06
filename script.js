@@ -89,4 +89,4 @@ result.addEventListener('click', e => {
 
         getLyrics(artist, songTitle);
     }
-});
+});  
